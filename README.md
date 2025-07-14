@@ -13,7 +13,7 @@ Before you begin, ensure that you have the following installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NaitikSinghal/Elasticsearchondocker.git
+git clone https://github.com/Garvitkul/ElasticSearch-On-Docker.git
 ```
 
 ### 2. Run the following commands
@@ -27,10 +27,3 @@ docker-compose up -d
 ```bash
 curl -X GET "localhost:9200"
 ```
-### 3. Cluster status 
-
-![Cluster Health](cluster-status.png)
-
-### 4. localhost
-
-![localhost](localhost_9200.png)
